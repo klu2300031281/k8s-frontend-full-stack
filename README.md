@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# k8s-frontend-full-stack" 
 "# k8s-helm-frontend" 
 "# k8s-helm-frontend" 
+"# helm-frontend" 

@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# k8s-frontend-full-stack" 
 "# k8s-helm-frontend" 
+"# k8s-helm-frontend" 
